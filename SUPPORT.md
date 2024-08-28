@@ -14,4 +14,4 @@ For help or questions about using this project, please [file an issue](/issues)
 
 Support for this project is limited to the resources listed above.
 
-hola
+hola mundo
